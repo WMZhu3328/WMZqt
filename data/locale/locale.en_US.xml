@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale name="en_US" value="English">
+        <!-- AppInfo -->
+    <Item en_US="WMZqt locale" locale="WMZqt locale"/>
+        <!-- Menu -->
+    <Item en_US="&amp;File" locale="&amp;File"/>
+    <Item en_US="E&amp;xit" locale="E&amp;xit"/>
+    <Item en_US="&amp;Tools" locale="&amp;Tools"/>
+    <Item en_US="&amp;Generate Locale Template" locale="&amp;Generate Locale Template"/>
+    <Item en_US="&amp;Import Locale" locale="&amp;Import Locale"/>
+    <Item en_US="&amp;Help" locale="&amp;Help"/>
+    <Item en_US="&amp;About" locale="&amp;About"/>
+        <!-- Log Console -->
+    <Item en_US="Log Console" locale="Log Console"/>
+    <Item en_US="hide log window" locale="hide log window"/>
+    <Item en_US="show log window" locale="show log window"/>
+        <!-- Info -->
+    <Item en_US="About" locale="About"/>
+    <Item en_US="Copyright" locale="Copyright"/>
+    <Item en_US="All rights reserved." locale="All rights reserved."/>
+    <Item en_US="Welcome to USE" locale="Welcome to USE"/>
+    <Item en_US="Confirm quit?" locale="Confirm quit?"/>
+    <Item en_US="Quit Application" locale="Quit Application"/>
+    <Item en_US="please try later." locale="please try later."/>
+    <Item en_US="Import Locale" locale="Import Locale"/>
+    <Item en_US="Use new imported locale immediately?" locale="Use new imported locale immediately?"/>
+</Locale>

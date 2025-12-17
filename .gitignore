@@ -1,0 +1,11 @@
+.qmake.stash
+*.sln
+.vs
+bin/*
+lib/*
+*.vcxproj*
+*_resource.rc
+src/WMZqt/debug
+src/WMZqt/release
+src/WMZqt_locale/debug
+src/WMZqt_locale/release

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale name="zh_CN" value="简体中文">
+        <!-- AppInfo -->
+    <Item en_US="WMZqt locale" locale="WMZqt 本地化语言演示程序"/>
+        <!-- Menu -->
+    <Item en_US="&amp;File" locale="文件(&amp;F)"/>
+    <Item en_US="E&amp;xit" locale="退出(&amp;x)"/>
+    <Item en_US="&amp;Tools" locale="工具(&amp;T)"/>
+    <Item en_US="&amp;Generate Locale Template" locale="生成本地语言模板文件(&amp;G)"/>
+    <Item en_US="&amp;Import Locale" locale="导入本地语言(&amp;I)"/>
+    <Item en_US="&amp;Help" locale="帮助(&amp;H)"/>
+    <Item en_US="&amp;About" locale="关于(&amp;A)"/>
+        <!-- Log Console -->
+    <Item en_US="Log Console" locale="日志窗口"/>
+    <Item en_US="hide log window" locale="隐藏日志窗口"/>
+    <Item en_US="show log window" locale="显示日志窗口"/>
+        <!-- Info -->
+    <Item en_US="About" locale="关于"/>
+    <Item en_US="Copyright" locale="版权所有"/>
+    <Item en_US="All rights reserved." locale="保留所有权利。"/>
+    <Item en_US="Welcome to USE" locale="欢迎使用"/>
+    <Item en_US="Confirm quit?" locale="确认退出？"/>
+    <Item en_US="Quit Application" locale="退出应用程序"/>
+    <Item en_US="please try later." locale="请稍后再试。"/>
+    <Item en_US="Import Locale" locale="导入本地语言"/>
+    <Item en_US="Use new imported locale immediately?" locale="立即使用新导入语言？"/>
+</Locale>
