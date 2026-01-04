@@ -221,6 +221,7 @@ QString	WMZqt::DBAppBase::GetCfgItem(const QString& qstrName, const QString& qst
 				qstrName.toStdString().c_str(),
 				qstrDftValue.toStdString().c_str());
 
+			qstrValue	=	qstrDftValue;
 			this->SetCfgItem(qstrName, qstrDftValue);
 		}
 		else
