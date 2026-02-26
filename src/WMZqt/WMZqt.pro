@@ -23,6 +23,7 @@ HEADERS += \
 	$$PWD/../../include/WMZqt/common.h \
 	$$PWD/../../include/WMZqt/app.h \
 	$$PWD/../../include/WMZqt/db_app_base.h \
+	$$PWD/../../include/WMZqt/db_mem.h \
 	$$PWD/../../include/WMZqt/locale.h \
 	$$PWD/../../include/WMZqt/threaded/log.h \
 	$$PWD/../../include/WMZqt/dlgs.h
@@ -32,6 +33,7 @@ SOURCES += \
 	$$PWD/common.cpp \
 	$$PWD/app.cpp \
 	$$PWD/db_app_base.cpp \
+	$$PWD/db_mem.cpp \
 	$$PWD/locale.cpp \
 	$$PWD/threaded/log.cpp \
 	$$PWD/dlgs.cpp
